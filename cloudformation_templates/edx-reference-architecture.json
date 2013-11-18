@@ -2910,7 +2910,7 @@
         "MinSize":{
           "Ref":"XqueueDesiredCapacity"
         },
-        "MaxSize":"{
+        "MaxSize":{
           "Ref":"XqueueDesiredCapacity"
         },
         "DesiredCapacity":{
@@ -4076,10 +4076,10 @@
         },
         "MinSize":{
           "Ref":"WorkerDesiredCapacity"
-        }
+        },
         "MaxSize":{
           "Ref":"WorkerDesiredCapacity"
-        }
+        },
         "DesiredCapacity":{
           "Ref":"WorkerDesiredCapacity"
         }
@@ -4721,10 +4721,10 @@
         },
         "MinSize":{
           "Ref":"MongoDesiredCapacity"
-        }
+        },
         "MaxSize":{
           "Ref":"MongoDesiredCapacity"
-        }
+        },
         "DesiredCapacity":{
           "Ref":"MongoDesiredCapacity"
         }
