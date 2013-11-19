@@ -14,7 +14,7 @@
     "KeyName":{
       "Type":"String",
       "Description":"Name of an existing EC2 KeyPair to enable SSH access to the web server",
-      "Default":"deployment"
+      "Default":"bcsinc.pem"
     },
     "InstanceType":{
       "Description":"WebServer EC2 instance type",
